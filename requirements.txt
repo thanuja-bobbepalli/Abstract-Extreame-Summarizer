@@ -1,0 +1,6 @@
+torch
+gradio
+tiktoken
+numpy
+pandas
+rouge-score
